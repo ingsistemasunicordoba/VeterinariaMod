@@ -1,4 +1,4 @@
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>
     /// Lista de Signos vitales

@@ -1,6 +1,6 @@
 using System;
 
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>Class <c>Paciente</c>
     /// Modela un Paciente que esta en atencion hospitalaria

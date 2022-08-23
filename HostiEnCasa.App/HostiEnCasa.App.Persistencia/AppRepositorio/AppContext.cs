@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using HospiEnCasa.App.Dominio;
+using HostiEnCasa.App.Dominio;
 
 namespace HostiEnCasa.App.Persistencia
 {
@@ -19,7 +19,7 @@ namespace HostiEnCasa.App.Persistencia
             if (!optionsBuilder.IsConfigured)
             {
                 optionsBuilder
-               .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog=HospiEncasa");
+               .UseSqlServer("Server=CSTCO503072; Database=HospiEnCasa; Integrated Security=True;");
             }
         }
 

@@ -1,4 +1,4 @@
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>Class <c>Medico</c>
     /// Modela un Medico del equipo medico de apoyo 

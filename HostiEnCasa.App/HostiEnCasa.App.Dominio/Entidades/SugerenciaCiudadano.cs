@@ -1,6 +1,6 @@
 using System;
 
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>Class <c>SugerenciaCuidado</c>
     /// Modela las sugerencias de cuidado del Paciente

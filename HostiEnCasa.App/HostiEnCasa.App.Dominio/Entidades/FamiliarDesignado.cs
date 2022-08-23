@@ -1,4 +1,4 @@
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>Class <c>FamiliarDesignado</c>
     /// Modela al familiar asignado para cuidar al paciente

@@ -1,6 +1,6 @@
 using System;
 
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>Class <c>SignoVital</c>
     /// Modela los signos vitales del Paciente

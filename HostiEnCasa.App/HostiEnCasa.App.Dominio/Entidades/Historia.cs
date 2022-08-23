@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace HospiEnCasa.App.Dominio
+namespace HostiEnCasa.App.Dominio
 {
     /// <summary>Class <c>Historia</c>
     /// Modela la Historia clínica relacionada cpon el cuidado en casa del Paciente
