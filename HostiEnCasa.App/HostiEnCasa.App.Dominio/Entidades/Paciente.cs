@@ -29,9 +29,7 @@ namespace HostiEnCasa.App.Dominio
         ///  Referencia a la lista de signos vitales de un Paciente 
         /// </summary>
         /// <value></value>
-        public List<SignoVital> SignosVitales { get; set; }
+        public List<SignoVital> SignosVitales { get; set; }        
 
-        public List<Enfermera> Enfermeras { get; set; }
-        
     }
 }
