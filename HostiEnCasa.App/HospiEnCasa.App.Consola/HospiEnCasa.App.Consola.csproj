@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\HostiEnCasa.App.Persistencia\HostiEnCasa.App.Persistencia.csproj" />
+    <ProjectReference Include="..\HostiEnCasa.App.Dominio\HostiEnCasa.App.Dominio.csproj" />
   </ItemGroup>
 
 </Project>

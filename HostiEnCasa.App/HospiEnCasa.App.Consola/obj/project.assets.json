@@ -6070,6 +6070,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HostiEnCasa.App.Dominio >= 1.0.0",
       "HostiEnCasa.App.Persistencia >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
@@ -6104,6 +6105,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Dominio\\HostiEnCasa.App.Dominio.csproj": {
+              "projectPath": "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Dominio\\HostiEnCasa.App.Dominio.csproj"
+            },
             "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Persistencia\\HostiEnCasa.App.Persistencia.csproj": {
               "projectPath": "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Persistencia\\HostiEnCasa.App.Persistencia.csproj"
             }

@@ -28,6 +28,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Dominio\\HostiEnCasa.App.Dominio.csproj": {
+                "projectPath": "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Dominio\\HostiEnCasa.App.Dominio.csproj"
+              },
               "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Persistencia\\HostiEnCasa.App.Persistencia.csproj": {
                 "projectPath": "D:\\Temp\\VeterinariaMod\\HostiEnCasa.App\\HostiEnCasa.App.Persistencia\\HostiEnCasa.App.Persistencia.csproj"
               }
