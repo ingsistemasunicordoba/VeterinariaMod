@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
-using HostiEnCasa.App.Dominio;
+using HospiEnCasa.App.Dominio;
 
-namespace HostiEnCasa.App.Persistencia
+namespace HospiEnCasa.App.Persistencia
 {
     public class AppContext : DbContext
     {
